@@ -1,0 +1,10 @@
+= Molokai
+:!webfonts:
+:source-highlighter: rouge
+:rouge-style: molokai
+
+.:rouge-style: molokai
+[source, javascript, linenums,start=123]
+----
+include::dracula-screenshot.js[]
+----

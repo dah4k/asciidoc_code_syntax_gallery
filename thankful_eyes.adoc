@@ -1,0 +1,10 @@
+= Thankful_eyes
+:!webfonts:
+:source-highlighter: rouge
+:rouge-style: thankful_eyes
+
+.:rouge-style: thankful_eyes
+[source, javascript, linenums,start=123]
+----
+include::dracula-screenshot.js[]
+----

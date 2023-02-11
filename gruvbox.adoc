@@ -1,0 +1,10 @@
+= Gruvbox
+:!webfonts:
+:source-highlighter: rouge
+:rouge-style: gruvbox
+
+.:rouge-style: gruvbox
+[source, javascript, linenums,start=123]
+----
+include::dracula-screenshot.js[]
+----

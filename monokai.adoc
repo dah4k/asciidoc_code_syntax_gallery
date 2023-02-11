@@ -1,0 +1,10 @@
+= Monokai
+:!webfonts:
+:source-highlighter: rouge
+:rouge-style: monokai
+
+.:rouge-style: monokai
+[source, javascript, linenums,start=123]
+----
+include::dracula-screenshot.js[]
+----

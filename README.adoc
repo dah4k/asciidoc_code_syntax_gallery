@@ -1,0 +1,14 @@
+= AsciiDoc Code Syntax Gallery
+:!webfonts:
+
+// WONTFIX: Syntax highlighting style can only be set once in root document header.
+// Cannot include document parts with different syntax highlighting styles.
+:leveloffset: +1
+include::base16.adoc[]
+include::colorful.adoc[]
+include::github.adoc[]
+include::gruvbox.adoc[]
+include::molokai.adoc[]
+include::monokai.adoc[]
+include::monokai.sublime.adoc[]
+include::thankful_eyes.adoc[]

@@ -1,0 +1,10 @@
+= Colorful
+:!webfonts:
+:source-highlighter: rouge
+:rouge-style: colorful
+
+.:rouge-style: colorful
+[source, javascript, linenums,start=123]
+----
+include::dracula-screenshot.js[]
+----
